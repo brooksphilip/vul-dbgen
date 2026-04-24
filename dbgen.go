@@ -26,7 +26,6 @@ import (
 	_ "github.com/vul-dbgen/updater/fetchers/rocky"
 	_ "github.com/vul-dbgen/updater/fetchers/suse"
 	_ "github.com/vul-dbgen/updater/fetchers/ubuntu"
-	_ "github.com/vul-dbgen/updater/fetchers/wolfi"
 )
 
 func usage() {
